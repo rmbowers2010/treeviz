@@ -1,6 +1,6 @@
 #### #### 	GGTREE SCRIPT TO PLOT CONSERVED MARKER TREE WITH ASSOCIATED METADATA 	#### ####
 
-#!/usr/bin/Rscript
+#!/usr/bin/env Rscript
 
 
 # this line is needed to run Rscript from command line
